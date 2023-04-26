@@ -4,6 +4,7 @@ import Antd from "ant-design-vue"
 import "ant-design-vue/dist/antd.css"
 import router from './router'
 import "@/assets/css/app.css"
+import '@wangeditor/editor/dist/css/style.css'
 
 
 Vue.config.productionTip = false

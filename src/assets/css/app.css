@@ -7,3 +7,7 @@
     margin: 24px;
     background: #fff;
 }
+.line_center{
+    display: flex;
+    justify-content: center;
+}
