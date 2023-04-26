@@ -1,0 +1,9 @@
+.head-right{
+    height: 100%;
+    float: right;
+    margin-right: 24px;
+}
+.container{
+    margin: 24px;
+    background: #fff;
+}
